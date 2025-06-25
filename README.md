@@ -22,10 +22,9 @@
 ## 📚 Theory & Foundations
 
 - [The Selfish Gene](https://en.wikipedia.org/wiki/The_Selfish_Gene) – Richard Dawkins (1976), coined the term "meme" as a replicator in cultural evolution.
-- [Thought Contagion](https://www.amazon.com/Thought-Contagion-Pseudoscience-Aaron-Lynch/dp/0465081471) – Aaron Lynch (1996), mathematical treatment of memetic spread.
-- [Viruses of the Mind](https://www.edge.org/documents/MindViruses/MindViruses_index.html) – Dawkins’ essay exploring memes as parasitic cognitive entities.
+- [Thought Contagion](https://archive.org/details/thoughtcontagion0000lync_c9w6) – Aaron Lynch (1996), mathematical treatment of memetic spread.
+- [Viruses of the Mind](https://www.inf.fu-berlin.de/lehre/pmo/eng/Dawkins-MindViruses.pdf) – Dawkins’ essay exploring memes as parasitic cognitive entities.
 - [The Meme Machine](https://en.wikipedia.org/wiki/The_Meme_Machine) – Susan Blackmore, expands on Dawkins with memetic theory as a framework for consciousness and culture.
-- [Memetics: A Systems Metaphor](https://journals.sagepub.com/doi/10.1177/1359183505050580) – Journal article on systems thinking and memetic analysis.
 
 ---
 
