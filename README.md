@@ -26,49 +26,14 @@
 - [Viruses of the Mind](https://www.inf.fu-berlin.de/lehre/pmo/eng/Dawkins-MindViruses.pdf) – Dawkins’ essay exploring memes as parasitic cognitive entities.
 - [The Meme Machine](https://en.wikipedia.org/wiki/The_Meme_Machine) – Susan Blackmore, expands on Dawkins with memetic theory as a framework for consciousness and culture.
 
----
-
 ## 🧠 Academic Papers
 
-- [Memetics – Does It Provide a Useful Way of Understanding Cultural Evolution?](https://journals.sagepub.com/doi/abs/10.1177/1350507605059513)
-- [What is a Meme?](https://journals.sagepub.com/doi/10.1177/1350508407080325)
-- [Modeling the Spread of Memes](https://arxiv.org/abs/1305.5557) – Analyzes information propagation on networks.
-- [Memetics and Social Contagion Theory](https://www.jstor.org/stable/23804588) – Comparative framework for diffusion models.
+- [MOSAIC:Modeling Social AI for Content Dissemination and Regulation in Multi-Agent Simulations](https://arxiv.org/pdf/2504.07830) - The MOSAIC framework introduces a generative, multi-agent simulation using LLM-powered personas to model social network behavior, including content sharing, flagging, and misinformation spread. It evaluates moderation strategies that both reduce misinformation and boost engagement, while revealing a mismatch between agents’ stated reasoning and actual behavior. The open-source project offers a scalable tool for studying online dynamics and AI-driven content ecosystems.
 
----
-
-## 🧮 Computational Memetics
-
-- [OpenMeme](https://github.com/OpenMeme/OpenMeme) – Framework for simulating memetic evolution.
-- [MemeSim](https://github.com/synesenom/memesim) – Meme similarity analysis using NLP techniques.
-- [Diffusion Models in Memetics](https://github.com/social-machines/memetic-models) – Code and models for simulating virality.
-- [MemeTracker](https://memetracker.org) – Project tracking quotes and phrases in the media landscape over time.
-
----
-
-## 🧪 Experiments & Simulations
-
-- [NetLogo Memetic Evolution Model](https://ccl.northwestern.edu/netlogo/models/MemeticEvolution)
-- [Replicator Dynamics Simulation](https://github.com/memelab/replicator-dynamics)
-- [Agent-Based Cultural Evolution](https://github.com/axelrod-python/axelrod) – Not meme-specific but extensible.
-
----
 
 ## 🔧 Tools & Libraries
 
-- [LangChain](https://github.com/langchain-ai/langchain) – Chain cultural content generation and analysis workflows.
-- [Memespector](https://github.com/memespector/memespector-gui) – Annotate and analyze image memes.
-- [Tweepy](https://github.com/tweepy/tweepy) – Track meme propagation on Twitter.
-- [FastText](https://github.com/facebookresearch/fastText) – Semantic similarity detection for meme classification.
-
----
-
-## 📊 Datasets
-
-- [Dank Learning Dataset](https://github.com/rohanrhu/dank-learning-dataset) – Text/image meme dataset.
-- [Memotion Dataset](https://www.kaggle.com/datasets/sbhatti/memotion-dataset) – Annotated meme emotions.
-- [Know Your Meme Scraper](https://github.com/memebot/knowyourmeme-crawler) – Crawl KYM entries and metadata.
-- [Reddit Meme Corpus](https://github.com/dedede999/meme-corpus) – Download memes from subreddits with tagging.
+[MOSAIC-submission](https://github.com/AnonymousPaperRepo/MOSAIC-submission) - a framework for simulating social media dynamics using AI agents with configurable personalities and behaviors. The simulation can be used to study the spread of information, misinformation, and the effects of various moderation strategies.
 
 ---
 
@@ -81,34 +46,6 @@
 - 🧠 **Memetic Engineering**
 - 📈 **Information Dynamics**
 - 🎯 **Influence Operations**
-
----
-
-## 🎙️ Talks & Lectures
-
-- [Susan Blackmore: Memes and “Temes”](https://www.ted.com/talks/susan_blackmore_memes_and_temes)
-- [Daniel Dennett: Dangerous Memes](https://www.ted.com/talks/daniel_dennett_dangerous_memes)
-- [Cultural Evolution: Kevin Laland Lecture](https://www.youtube.com/watch?v=qGsM2NAaHBI)
-- [Memes as Cultural DNA – Kurzgesagt](https://www.youtube.com/watch?v=G_gEtp8XdC8)
-
----
-
-## 🧭 Influential Figures
-
-- **Richard Dawkins** – Evolutionary biologist, author of *The Selfish Gene*.
-- **Susan Blackmore** – Psychologist and memetics theorist.
-- **Daniel Dennett** – Philosopher of mind, explores memetics in cultural evolution.
-- **Aaron Lynch** – Mathematician and memetics theorist.
-- **Robert Aunger** – Author of *The Electric Meme*.
-
----
-
-## 📦 Repos to Watch
-
-- [facebookresearch/fastText](https://github.com/facebookresearch/fastText) – Used in meme semantic classification.
-- [huggingface/transformers](https://github.com/huggingface/transformers) – For large-scale NLP meme analysis.
-- [projectMeme/projectMeme](https://github.com/projectMeme/projectMeme) – Meme generation and mutation platform.
-- [memetic-computation/meme-algorithms](https://github.com/memetic-computation/meme-algorithms) – Optimization via memetic algorithms.
 
 ---
 
