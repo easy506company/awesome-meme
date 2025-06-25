@@ -30,6 +30,8 @@
 
 - [MOSAIC:Modeling Social AI for Content Dissemination and Regulation in Multi-Agent Simulations](https://arxiv.org/pdf/2504.07830) - The MOSAIC framework introduces a generative, multi-agent simulation using LLM-powered personas to model social network behavior, including content sharing, flagging, and misinformation spread. It evaluates moderation strategies that both reduce misinformation and boost engagement, while revealing a mismatch between agents’ stated reasoning and actual behavior. The open-source project offers a scalable tool for studying online dynamics and AI-driven content ecosystems.
 
+- [One pathogen does not an epidemic make: A review of interacting contagions, diseases, beliefs, and stories](https://arxiv.org/pdf/2504.15053) - This review argues that contagion models—used across biology, computing, and social science—have evolved in disciplinary silos, often assuming that each contagion spreads in isolation. It challenges that assumption, showing how biological and social contagions frequently interact within and across hosts, with significant implications for modeling accuracy and real-world application. The authors call for a unified, interdisciplinary approach to contagion science that bridges social and biological domains.
+
 
 ## 🔧 Tools & Libraries
 
